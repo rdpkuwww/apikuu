@@ -25,8 +25,8 @@ module.exports = {
   },
   
   smtp: {
-  	email: "arifzynapis19@gmail.com",
-  	pass: "phyyygodbtmezwvu"
+  	email: "apiwannofc@gmail.com",
+  	pass: "WannOfc354__"
   },
   
   mongoURL: "mongodb+srv://arifzyn906:Arifzyn19@arifzynapi.1vwsizt.mongodb.net/?retryWrites=true&w=majority",
