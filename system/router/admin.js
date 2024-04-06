@@ -11,7 +11,7 @@ const Func = new Function()
 
 const saweria = new Saweria("f3405c17-9111-484a-87f7-63c430dc8055")
 
-let tokens = "ArifzynAPI2023";
+let tokens = "WannOfc";
 let database = loadDatabase();
 
 function loadDatabase() {
