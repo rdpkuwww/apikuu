@@ -29,7 +29,7 @@ module.exports = {
   	pass: "WannOfc354__"
   },
   
-  mongoURL: "mongodb+srv://arifzyn906:Arifzyn19@arifzynapi.1vwsizt.mongodb.net/?retryWrites=true&w=majority",
+  mongoURL: "mongodb+srv://zaktigantenk:ridwanachyar@cluster.1hxvuvd.mongodb.net/zaktigantenk?retryWrites=true&w=majority",
   message: async (text, mode) => {
   	try {
   		const { data } = await axios.post(`https://api.telegram.org/bot${options.token}/sendMessage`, {
